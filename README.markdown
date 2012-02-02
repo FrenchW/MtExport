@@ -1,6 +1,6 @@
 #MkExport
 
-(Version français plus bas dans la page)
+(Version franÃ§ais plus bas dans la page)
 
 ##English
 
@@ -11,7 +11,7 @@ More information : http://frenchw.net/2012/02/01/exporting-b2evolution-movable-t
 
 ##Author
 
-Frédéric Druilhet (FrenchW@gmail.com)
+FrÃ©dÃ©ric Druilhet (FrenchW@gmail.com)
 
 ##Licence
 
@@ -26,9 +26,9 @@ Plus d'information: http://frenchw.net/2012/02/01/exporting-b2evolution-movable-
 
 ##Auteur
 
-Frédéric Druilhet (FrenchW@gmail.com)
+FrÃ©dÃ©ric Druilhet (FrenchW@gmail.com)
 
 ##Licence
 
-Cet habillage est diffusé sous licence "Logiciel libre" CeCILL-B (libre d'usage mais avec citation de l'auteur)
+Cet habillage est diffusÃ© sous licence "Logiciel libre" CeCILL-B (libre d'usage mais avec citation de l'auteur)
 
